@@ -27,3 +27,4 @@ function calculate(event) {
       display.value += clickedButtonValue;
     }
   }
+  
